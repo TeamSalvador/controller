@@ -1,7 +1,7 @@
 [
     {
         "name": "control01",
-        "autostart": true,
+        "autostart": false,
         "cpus": 2,
         "distro": "almalinux",
         "family": "RedHat",
@@ -46,7 +46,7 @@
     },
     {
         "name": "worker10",
-        "autostart": true,
+        "autostart": false,
         "cpus": 2,
         "distro": "almalinux",
         "family": "RedHat",
